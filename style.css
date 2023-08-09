@@ -1,6 +1,45 @@
 .cabeçalho{
     background-color: #FFFFFF;
 }
-.cabeçalho-titulo {
-    color: #DE3939
+.cabeçalho-título {
+    font-size: 50px;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
+
+.cabeçalho-subtitulo{
+    font-size: 33px;
+    color:blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cabeçalho-lista{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: center;
+}
+
+.cabeçalho-lista2{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: center;
+}
+
+.cabeçalho-lista3{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: center;
+}
+
+.container__imagem { margin: 1em 0 2em 0;}
